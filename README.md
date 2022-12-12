@@ -1,1 +1,3 @@
 # chatsome
+
+a hobby project
